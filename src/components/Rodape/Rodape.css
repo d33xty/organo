@@ -1,0 +1,24 @@
+.footer{
+    align-items: center;
+    background-color: #6278F7;
+    background-image: url("/public/img/fundo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    padding: 44px;
+    justify-content: space-around;
+}
+
+.footer ul{
+    list-style: none;
+}
+
+.footer ul li img{
+    max-width: 24px;
+    margin: 0 16px;
+}
+
+.footer .paragrafo p{
+    color: #FFF;
+    font-size:20px ;
+}
